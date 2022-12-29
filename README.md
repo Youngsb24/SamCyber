@@ -13,7 +13,9 @@
   <br > <img src="https://i.imgur.com/EqQdVyy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> <br/>
   
   <h3>Learning</h3>
-  - Splunk Power User
+  - Splunk architecture 
+  - cribl
+  - AWS, Azure , GCP
   
   
  -Python 
