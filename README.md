@@ -10,7 +10,7 @@
 
 -[Architecting a Splunk Cluster Enviroment Lab](https://github.com/Youngsb24/Architect-a-Splunk-Cluster-Enviroment)
 
--[Linux User/permissions Management]
+-[Linux User/permissions Management](https://github.com/Youngsb24/Linux-Bash-Scripting)
 
 
 
