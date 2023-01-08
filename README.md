@@ -10,12 +10,11 @@
 
 -[Linux User/permissions Management](https://github.com/Youngsb24/Linux-Bash-Scripting)
 
+-[Certification](https://github.com/Youngsb24/Certificates)
 
 
-  <h2> Certifications</h2>
-  - [Comptia Security + 601] 
-  <br > <img src="https://i.imgur.com/EqQdVyy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> <br/>
-  
+
+ 
   <h3>Learning</h3>
   - Splunk architecture 
   
