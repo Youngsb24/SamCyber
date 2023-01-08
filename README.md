@@ -17,14 +17,11 @@
  
   <h3>Learning</h3>
   - Splunk architecture 
-  
-  
+  <br></br>
   - cribl
-  
-  
+  <br></br>
   - AWS, Azure , GCP
-  
-  
+  <br></br>
  -Python 
 
  
