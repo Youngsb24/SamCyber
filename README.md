@@ -3,8 +3,6 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 -[Splunk Dashboard Lab](https://github.com/Youngsb24/Splunk_Dashboard)
-
--[Splunk On Board Data Lab](https://github.com/Youngsb24/On-Board-Data-into-Splunk)
   
 -[AWS vulnerability Scanning Lab](https://github.com/Youngsb24/AWSInspectorLab)
 
