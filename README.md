@@ -3,9 +3,12 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 # Splunk
+ 
 -[Splunk Dashboard Lab](https://github.com/Youngsb24/Splunk_Dashboard)
 <br></br>
 -[Architecting a Splunk Cluster Enviroment Lab](https://github.com/Youngsb24/Architect-a-Splunk-Cluster-Enviroment)
+<br></br>
+-[Splunk Security Essentials]
 
 # AWS 
 -[AWS vulnerability Scanning Lab](https://github.com/Youngsb24/AWSInspectorLab)
