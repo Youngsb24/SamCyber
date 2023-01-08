@@ -8,7 +8,7 @@
 <br></br>
 -[Architecting a Splunk Cluster Enviroment Lab](https://github.com/Youngsb24/Architect-a-Splunk-Cluster-Enviroment)
 <br></br>
--[Splunk Security Essentials]
+-[Splunk Security Essentials](https://github.com/Youngsb24/Splunk-Security-Essentials)
 
 # AWS 
 -[AWS vulnerability Scanning Lab](https://github.com/Youngsb24/AWSInspectorLab)
