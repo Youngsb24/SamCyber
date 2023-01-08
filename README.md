@@ -2,14 +2,19 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+<h3> Splunk </h3>
 -[Splunk Dashboard Lab](https://github.com/Youngsb24/Splunk_Dashboard)
-  
+<br></br>
+-[Architecting a Splunk Cluster Enviroment Lab](https://github.com/Youngsb24/Architect-a-Splunk-Cluster-Enviroment)
+
+<h4> AWS </h4>  
 -[AWS vulnerability Scanning Lab](https://github.com/Youngsb24/AWSInspectorLab)
 
--[Architecting a Splunk Cluster Enviroment Lab](https://github.com/Youngsb24/Architect-a-Splunk-Cluster-Enviroment)
+<h5>Bash Scripting </h5>
 
 -[Linux User/permissions Management](https://github.com/Youngsb24/Linux-Bash-Scripting)
 
+<br></br>
 -[Certification](https://github.com/Youngsb24/Certificates)
 
 
@@ -28,7 +33,7 @@
 
   
 
-<h2> 🤳 Connect with me:</h2>
+<h4> 🤳 Connect with me:</h4>
 
 [<img align="left" alt="Sambide | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
