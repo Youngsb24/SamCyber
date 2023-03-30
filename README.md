@@ -2,6 +2,9 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+# Certificates 
+-[Certification](https://github.com/Youngsb24/Certificates) 
+
 # Splunk
  
 -[Splunk Dashboard Lab](https://github.com/Youngsb24/Splunk_Dashboard)
@@ -21,12 +24,8 @@
 
 -[Linux User/permissions Management](https://github.com/Youngsb24/Linux-Bash-Scripting)
 
-<br></br>
-# Certificates 
--[Certification](https://github.com/Youngsb24/Certificates)
-
 # Regex
-
+-[Basic Regex](https://github.com/Youngsb24/Regex-101)
  
 # Learning
 
