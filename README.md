@@ -5,6 +5,9 @@
 # Certificates 
 -[Certification](https://github.com/Youngsb24/Certificates) 
 
+# Microsoft
+
+
 # Splunk
  
 -[Splunk Dashboard Lab](https://github.com/Youngsb24/Splunk_Dashboard)
@@ -23,9 +26,6 @@
 # Bash Scripting 
 
 -[Linux User/permissions Management](https://github.com/Youngsb24/Linux-Bash-Scripting)
-
-# Regex
--[Basic Regex](https://github.com/Youngsb24/Regex-101)
 
 # Python
 -[API](https://github.com/Youngsb24/API_python)
