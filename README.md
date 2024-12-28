@@ -5,7 +5,7 @@
 # Certificates 
 -[Certification](https://github.com/Youngsb24/Certificates) 
 
-# Microsoft
+# Azure 
 -[Honeypot](https://github.com/Youngsb24/)
 
 # Splunk
